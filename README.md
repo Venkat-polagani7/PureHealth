@@ -13,11 +13,17 @@ This is a web based application. PureHealth is a healthcare website dedicated to
 ## Features and Functionalities 😃
 
 -> Interactive and responsive UI.
+
 -> Has many graphical and visual innovative effects.
+
 -> Have an aesthetically pleasing visual design and architecture.
+
 -> Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+
 -> User can know about health information through this website.
+
 -> The website has a dedicated contact page where users can find contact details for the company and get in touch with support for any queries or issues they may have.
+
 -> PureHealth has a search feature that allows users to search for specific doctors, healthcare providers, or services on the platform. This feature makes it easy for users to find exactly what they are looking for quickly and easily.
 
 ## Screenshots of website 
