@@ -60,7 +60,7 @@ This is a web based application. PureHealth is a healthcare website dedicated to
 
 -> Azure Healthbot
 
--> Azure static web pages
+-> Azure static Web Apps
 
 ## Tech Stack 👨🏼‍💻
 
