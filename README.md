@@ -53,14 +53,14 @@ This is a web based application. PureHealth is a healthcare website dedicated to
 
 ## Azure services used
 
+-> Azure Healthbot
+
+-> Azure static Web Apps
+
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/103422239/230443536-735b06d7-5789-4907-896d-b5aafd700d69.png">
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/103422239/230443778-07d5f85e-5381-47d8-b040-96d43eb49b77.png">
 
-
--> Azure Healthbot
-
--> Azure static Web Apps
 
 ## Tech Stack 👨🏼‍💻
 
