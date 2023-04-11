@@ -7,7 +7,7 @@ This is a web based application. PureHealth is a healthcare website dedicated to
 
 **Project Link** -> https://ashy-wave-0db94c500.3.azurestaticapps.net
 
-**Project Demo link** ->
+**Project Demo link** -> https://drive.google.com/file/d/1BN0Oihrx1lhR8jLtYtEk2wMDX_hvixLD/view?usp=sharing
 
 
 ## Features and Functionalities 😃
